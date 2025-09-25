@@ -2,5 +2,6 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Make sure you have installed:
+### Show Results
+This project is live at:  
+[https://r-grigala.github.io/front_howto/](https://r-grigala.github.io/front_howto/)
